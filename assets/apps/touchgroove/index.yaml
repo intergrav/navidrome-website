@@ -1,0 +1,23 @@
+name: TouchGroove
+url: https://touchgroove.com
+platforms:
+  windows: true
+  linux: true
+api: OpenSubsonic
+description: "A premium touchscreen jukebox for home bars, game rooms and man caves. Guests queue songs from their phones via QR code, with synced karaoke lyrics, a visualizer screensaver, music videos, saved playlists and Auto DJ — all streaming from your own Navidrome server."
+screenshots:
+  thumbnail: thumbnail.webp
+  gallery:
+    - screen1.webp
+    - screen2.webp
+    - screen3.webp
+    - screen4.webp
+    - screen5.webp
+isOpenSource: false
+keywords:
+  - jukebox
+  - touchscreen
+  - kiosk
+  - karaoke
+  - visualizer
+  - phone queue
